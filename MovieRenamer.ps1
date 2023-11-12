@@ -1,5 +1,5 @@
 ﻿# Set the base Movie directory
-$baseDirectory = "\\192.168.1.1\Media-Libarary\Movies"
+$baseDirectory = "I:\foo\Movies"
 
 #exclude Directorys 
 $exludedDirectorys = "Basic_Movie_Layout"
